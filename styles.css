@@ -3,6 +3,10 @@ body {
   background-color: #283149;
 }
 
+a {
+  color: white;
+}
+
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
